@@ -1,5 +1,5 @@
 <head>
-    <link rel:"stylesheet" type="text/css" href="stylesheet.css" href="https://fonts.googleapis.com/css?family=Raleway:200,400">
+    <link rel:"stylesheet" type="text/css" href="style.css" href="https://fonts.googleapis.com/css?family=Raleway:200,400">
 </head>
 
 <h1>Acts 17:24-27</h1>
