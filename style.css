@@ -1,19 +1,22 @@
-body {
-background-color: #fefbf7;
-}
-
-h1 {
-  color: #8b8378;
-font-family: 'Raleway';
-font-size: 20px;
-font-style: normal;
-font-weight: 300;
-}
-
-p {
-color: #838b8b;
-font-family: 'Raleway';
-font-size: 16px;
-font-style: normal;
-font-weight: 200;
-}
+        body {
+            background-color: #fefbf7;
+        }
+        h1 {
+            color: #8b8378;
+            font-family: Raleway, sans-serif;
+            font-size: 20px;
+            font-style: normal;
+            font-variant: normal;
+            font-weight: 300;
+            line-height:
+            
+        }
+        p {
+            color: #838b8b;
+            font-family: Raleway, sans-serif;
+            font-size: 16px;
+            font-style: normal;
+            font-variant: normal;
+            font-weight: 200;
+        }
+    </style>
